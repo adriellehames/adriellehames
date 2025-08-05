@@ -23,8 +23,8 @@
 
 <p align="center">
   💻 Desenvolvimento de sistemas com PHP (estrutura MVC)  
-  📊 Análise de dados com Excel e automações em Google Sheets  
-  🔄 Práticas de versionamento com Git e GitHub  
+  📊 Paradigma POO
+  🔄 React e JavaScript
   🧠 Conteúdo sobre IA no canal Neurônio Artificial  
 </p>
 
