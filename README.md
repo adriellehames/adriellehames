@@ -18,7 +18,7 @@
 ### 🚀 O Que Estou Estudando e Aprofundando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,react " />
 </p>
 
 <p align="center">
