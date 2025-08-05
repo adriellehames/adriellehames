@@ -18,14 +18,14 @@
 ### 🚀 O Que Estou Estudando e Aprofundando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react " />
+  <img src="https://skillicons.dev/icons?i=js,react,azure " />
 </p>
 
 <p align="center">
   💻 Desenvolvimento de sistemas com PHP (estrutura MVC)  
   📊 Paradigma POO
   🔄 React e JavaScript
-  🧠 Conteúdo sobre IA no canal Neurônio Artificial  
+  🧠 Azure 
 </p>
 
 ---
